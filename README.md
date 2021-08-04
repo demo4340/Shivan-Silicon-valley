@@ -1,2 +1,1 @@
-# Shivan-Silicon-valley
-XY positions - fixed
+# CP-2
